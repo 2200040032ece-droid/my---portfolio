@@ -82,10 +82,12 @@ function App() {
     },
     {
       title: 'Introduction to Machine Learning',
+      imageUrl: 'https://i.imgur.com/W5HImD9.png',
       date: 'Feb 2024',
     },
     {
       title: 'AI & ML using Python',
+      imageUrl: 'https://i.imgur.com/zkmqddE.png',
       date: 'Oct 2023',
     },
   ];
